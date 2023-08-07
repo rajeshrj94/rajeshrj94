@@ -15,7 +15,7 @@
 
 Hi, I'm a passionate self-taught **Devops Engineer** from India.
 
-- 🔭 I’m currently working as **Senior Devops engineer**
+- 🔭 I’m currently working as **Devops engineer** at **Oracle**
 - 💬 Ask me about anything [here](https://github.com/rajeshrj94/rajeshrj/issues)
 
 ### Languages and Tools:
