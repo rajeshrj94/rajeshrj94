@@ -40,11 +40,11 @@ Hi, I'm a passionate self-taught **Devops Engineer** from India.
 <img align="left" alt="CircleCI" width="26px" src="https://www.pikpng.com/pngl/b/193-1930090_circleci-logo-clipart.png" />
 
 
-<a href="https://github.com/rajeshrj/github-readme-stats">
+<!-- <a href="https://github.com/rajeshrj/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajeshrj&show_icons=true&include_all_commits=true&theme=radical" alt="Rajesh's github stats" />
 </a>
 <a href="https://github.com/rajeshrj/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshrj&layout=compact&theme=radical" />
-</a>
+</a> -->
 
 
